@@ -1,0 +1,6 @@
+name: mruby-semlock
+description: Semlock class
+author: Takanori Suzuki
+website: https://github.com/tszki/mruby-semlock
+protocol: git
+repository: https://github.com/tszki/mruby-semlock.git
